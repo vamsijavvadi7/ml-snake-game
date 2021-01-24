@@ -21,7 +21,5 @@ https://drive.google.com/file/d/1mspi4njuQQ2tDrnuYMTsbPNnNMKAZq1u/view?usp=drive
 # Working heruko game:
 https://snake-game-4065.herokuapp.com/index.html
 
-
-#Teammates:
-
+# TEAMMATES:
 ALLURI YASHWANTH SAI VARMA--18PA1A0506
