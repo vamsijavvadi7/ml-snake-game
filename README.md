@@ -6,7 +6,7 @@
 # Working of the game:
 
 ## First of all user have to allow the voice input,then based on the audio input the snake moves in the direction which has highest prediction accuracy.
-## Audio input keywords like left, right,up,down would drive the snake towards that direction.
+## Audio input keywords are like left, right,up,down which would drive the snake towards that particular direction.
 
 # Sample demo video:
 https://youtu.be/kMOdCwoPppM
