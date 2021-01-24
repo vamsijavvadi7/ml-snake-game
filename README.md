@@ -1,4 +1,8 @@
 # ml-snake-game
+# TEAMMATES:
+JAVVADI VEERA VENKATA VAMSI KRISHNA--18PA1A0561
+
+ALLURI YASHWANTH SAI VARMA--18PA1A0506
 
 # Introduction
 ## The game is developed using teaching machine with google,and basic html,css,js.
@@ -21,7 +25,3 @@ https://drive.google.com/file/d/1mspi4njuQQ2tDrnuYMTsbPNnNMKAZq1u/view?usp=drive
 # Working heruko game:
 https://snake-game-4065.herokuapp.com/index.html
 
-# TEAMMATES:
-JAVVADI VEERA VENKATA VAMSI KRISHNA--18PA1A0561
-
-ALLURI YASHWANTH SAI VARMA--18PA1A0506
