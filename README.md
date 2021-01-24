@@ -9,6 +9,8 @@
 ## Audio input keywords like left, right,up,down would drive the snake towards that direction.
 
 # Sample demo video:
+https://youtu.be/kMOdCwoPppM
+
 
 # Ref Links:
 https://teachablemachine.withgoogle.com/
