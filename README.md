@@ -1,8 +1,4 @@
 # ml-snake-game
-# TEAMMATES:
-JAVVADI VEERA VENKATA VAMSI KRISHNA--18PA1A0561
-
-ALLURI YASHWANTH SAI VARMA--18PA1A0506
 
 # Introduction
 ## The game is developed using teaching machine with google,and basic html,css,js.
